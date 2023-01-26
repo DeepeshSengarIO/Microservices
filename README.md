@@ -1,5 +1,5 @@
 Whosoever see this, I have implemented the back-end services and I am craetring the front-end and also update in future.
-# Architecture
+# Architecture/Marchitecture
 
 ![Image](/images/arch.png)
 
